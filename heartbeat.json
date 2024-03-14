@@ -1,0 +1,712 @@
+[{
+  "__typename": "Opportunity",
+  "applicants_count": 75,
+  "applications_close_date": null,
+  "cover_photo({\"cdn_region\":\"Global\"})": {
+    "url": "https://s3.eu-west-1.amazonaws.com/gis-production-eu/4RTuMxMZSQBN7VhRrC8VZVse",
+    "filename": "cover-photo.jpg"
+  },
+  "description": "Global Volunteers will be involved in community outreach in the public health field by creating and running outreach activities that aim to raise awareness on prevention of non-communicable diseases, healthy lifestyle habits and mental health in the community.\t",
+  "id": "1282256",
+  "partner_type": null,
+  "is_favourited": true,
+  "duration": null,
+  "earliest_start_date": null,
+  "location": "Pune, India",
+  "project_name": "",
+  "project_description": "The project aims to impact the SDG #3 by raising awareness on prevention of non-communicable diseases and the importance of mental health. \t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t",
+  "remote_opportunity": "false",
+  "experience_type": "physical",
+  "template_opportunities_locations": [],
+  "title": "Heartbeat",
+  "all_slots({\"sort\":\"start_date\",\"sort_direction\":\"asc\",\"start_date\":\"2024-03-14\"})": {
+    "__typename": "SlotConnection",
+    "nodes": [
+      {
+        "__typename": "Slot",
+        "status": "live",
+        "start_date": "2025-02-03",
+        "opportunity_applications_count": 3
+      },
+      {
+        "__typename": "Slot",
+        "status": "live",
+        "start_date": "2025-02-17",
+        "opportunity_applications_count": 4
+      }
+    ]
+  },
+  "branch": {
+    "__ref": "Branch:382478"
+  },
+  "host_lc": {
+    "__ref": "Office:1418"
+  },
+  "opportunity_duration_type": {
+    "__ref": "OpportunityDurationType:1"
+  },
+  "organisation": {
+    "__typename": "Organisation",
+    "name": "Janaseva Foundation",
+    "profile_photo": "https://cdn-expa.aiesec.org/gis-img/missing_profile_j.svg"
+  },
+  "programme": {
+    "__ref": "Programme:7"
+  },
+  "role_info": {
+    "__typename": "RoleInfoType",
+    "learning_points_list": []
+  },
+  "sdg_info": {
+    "__ref": "Sdg:334052"
+  },
+  "specifics_info": {
+    "__typename": "SpecificInfoType",
+    "salary": null,
+    "salary_currency": {
+      "__ref": "Currency:97"
+    },
+    "salary_periodicity": "per month"
+  }
+}
+,{
+  "__typename": "Opportunity",
+  "applicants_count": 31,
+  "applications_close_date": null,
+  "cover_photo({\"cdn_region\":\"Global\"})": {
+    "url": "https://s3.eu-west-1.amazonaws.com/gis-production-eu/r7LWcF5HXsJx7eegE8jDVCVT",
+    "filename": "Slide9.JPG"
+  },
+  "description": "Global Volunteers will be involved in community outreach in the public health field by creating and running outreach activities that aim to raise awareness on prevention of non-communicable diseases, healthy lifestyle habits and mental health in the community.\t",
+  "id": "1282605",
+  "partner_type": null,
+  "is_favourited": true,
+  "duration": null,
+  "earliest_start_date": null,
+  "location": "Dehradun, India",
+  "project_name": "",
+  "project_description": "The project aims to impact the SDG #3 by raising awareness on prevention of non-communicable diseases and the importance of mental health. \t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t",
+  "remote_opportunity": "false",
+  "experience_type": "physical",
+  "template_opportunities_locations": [],
+  "title": "Heartbeat",
+  "all_slots({\"sort\":\"start_date\",\"sort_direction\":\"asc\",\"start_date\":\"2024-03-14\"})": {
+    "__typename": "SlotConnection",
+    "nodes": [
+      {
+        "__typename": "Slot",
+        "status": "live",
+        "start_date": "2024-07-01",
+        "opportunity_applications_count": 0
+      },
+      {
+        "__typename": "Slot",
+        "status": "live",
+        "start_date": "2024-07-15",
+        "opportunity_applications_count": 2
+      },
+      {
+        "__typename": "Slot",
+        "status": "live",
+        "start_date": "2024-07-15",
+        "opportunity_applications_count": 0
+      }
+    ]
+  },
+  "branch": {
+    "__ref": "Branch:352602"
+  },
+  "host_lc": {
+    "__ref": "Office:21"
+  },
+  "opportunity_duration_type": {
+    "__ref": "OpportunityDurationType:1"
+  },
+  "organisation": {
+    "__typename": "Organisation",
+    "name": "Jagrati Foundation",
+    "profile_photo": "https://cdn-expa.aiesec.org/gis-img/missing_profile_j.svg"
+  },
+  "programme": {
+    "__ref": "Programme:7"
+  },
+  "role_info": {
+    "__typename": "RoleInfoType",
+    "learning_points_list": []
+  },
+  "sdg_info": {
+    "__ref": "Sdg:334052"
+  },
+  "specifics_info": {
+    "__typename": "SpecificInfoType",
+    "salary": null,
+    "salary_currency": {
+      "__ref": "Currency:97"
+    },
+    "salary_periodicity": "per month"
+  }
+}
+,{
+  "__typename": "Opportunity",
+  "applicants_count": 308,
+  "applications_close_date": null,
+  "cover_photo({\"cdn_region\":\"Global\"})": {
+    "url": "https://s3.eu-west-1.amazonaws.com/gis-production-eu/4QTCeZLN8YTcwWrgupUavNpQ",
+    "filename": "cover-photo.jpg"
+  },
+  "description": "Global Volunteers will be involved in community outreach in the public health field by creating and running outreach activities that aim to raise awareness on prevention of non-communicable diseases, healthy lifestyle habits and mental health in the community.\t",
+  "id": "1284670",
+  "partner_type": null,
+  "is_favourited": true,
+  "duration": null,
+  "earliest_start_date": null,
+  "location": "Beşiktaş, Türkiye",
+  "project_name": "",
+  "project_description": "The project aims to impact the SDG #3 by raising awareness on prevention of non-communicable diseases and the importance of mental health. \t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t",
+  "remote_opportunity": "false",
+  "experience_type": "physical",
+  "template_opportunities_locations": [],
+  "title": "Heartbeat",
+  "all_slots({\"sort\":\"start_date\",\"sort_direction\":\"asc\",\"start_date\":\"2024-03-14\"})": {
+    "__typename": "SlotConnection",
+    "nodes": [
+      {
+        "__typename": "Slot",
+        "status": "live",
+        "start_date": "2024-07-03",
+        "opportunity_applications_count": 35
+      }
+    ]
+  },
+  "branch": {
+    "__ref": "Branch:354658"
+  },
+  "host_lc": {
+    "__ref": "Office:813"
+  },
+  "opportunity_duration_type": {
+    "__ref": "OpportunityDurationType:1"
+  },
+  "organisation": {
+    "__typename": "Organisation",
+    "name": "Galatasaray Summer Sport Schools",
+    "profile_photo": "https://cdn-expa.aiesec.org/gis-img/missing_profile_g.svg"
+  },
+  "programme": {
+    "__ref": "Programme:7"
+  },
+  "role_info": {
+    "__typename": "RoleInfoType",
+    "learning_points_list": []
+  },
+  "sdg_info": {
+    "__ref": "Sdg:334052"
+  },
+  "specifics_info": {
+    "__typename": "SpecificInfoType",
+    "salary": null,
+    "salary_currency": {
+      "__ref": "Currency:97"
+    },
+    "salary_periodicity": "per month"
+  }
+}
+,{
+  "__typename": "Opportunity",
+  "applicants_count": 29,
+  "applications_close_date": null,
+  "cover_photo({\"cdn_region\":\"Global\"})": {
+    "url": "https://s3.eu-west-1.amazonaws.com/gis-production-eu/zogU7F9zF4EZXwJd3EAYz15H",
+    "filename": "4-47224_gold-ribbon-free-childhood-cancer-awareness.jpeg"
+  },
+  "description": "Global Volunteers will be involved in community outreach in the public health field by creating and running outreach activities that aim to raise awareness on prevention of non-communicable diseases, healthy lifestyle habits and mental health in the community.\t",
+  "id": "1285302",
+  "partner_type": null,
+  "is_favourited": true,
+  "duration": null,
+  "earliest_start_date": null,
+  "location": "Lagos, Nigeria",
+  "project_name": "",
+  "project_description": "The project aims to impact the SDG #3 by raising awareness on prevention of non-communicable diseases and the importance of mental health. \t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t",
+  "remote_opportunity": "false",
+  "experience_type": "physical",
+  "template_opportunities_locations": [],
+  "title": "Heartbeat",
+  "all_slots({\"sort\":\"start_date\",\"sort_direction\":\"asc\",\"start_date\":\"2024-03-14\"})": {
+    "__typename": "SlotConnection",
+    "nodes": [
+      {
+        "__typename": "Slot",
+        "status": "live",
+        "start_date": "2024-07-01",
+        "opportunity_applications_count": 1
+      }
+    ]
+  },
+  "branch": {
+    "__ref": "Branch:351096"
+  },
+  "host_lc": {
+    "__ref": "Office:1239"
+  },
+  "opportunity_duration_type": {
+    "__ref": "OpportunityDurationType:1"
+  },
+  "organisation": {
+    "__typename": "Organisation",
+    "name": "The DOrcas Cancer Foundation",
+    "profile_photo": "https://cdn-expa.aiesec.org/gis-img/missing_profile_t.svg"
+  },
+  "programme": {
+    "__ref": "Programme:7"
+  },
+  "role_info": {
+    "__typename": "RoleInfoType",
+    "learning_points_list": []
+  },
+  "sdg_info": {
+    "__ref": "Sdg:334052"
+  },
+  "specifics_info": {
+    "__typename": "SpecificInfoType",
+    "salary": null,
+    "salary_currency": {
+      "__ref": "Currency:97"
+    },
+    "salary_periodicity": "per month"
+  }
+}
+,{
+  "__typename": "Opportunity",
+  "applicants_count": 93,
+  "applications_close_date": null,
+  "cover_photo({\"cdn_region\":\"Global\"})": {
+    "url": "https://s3.eu-west-1.amazonaws.com/gis-production-eu/xUyytjfJG8bJUqwyv9uVf8jA",
+    "filename": "cover 2.jpg"
+  },
+  "description": "Global Volunteers will be involved in community outreach in the public health field by creating and running outreach activities that aim to raise awareness on prevention of non-communicable diseases, healthy lifestyle habits and mental health in the community.\t",
+  "id": "1285499",
+  "partner_type": null,
+  "is_favourited": true,
+  "duration": null,
+  "earliest_start_date": null,
+  "location": "Kumasi, Ghana",
+  "project_name": "",
+  "project_description": "The project aims to impact the SDG #3 by raising awareness on prevention of non-communicable diseases and the importance of mental health. \t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t",
+  "remote_opportunity": "false",
+  "experience_type": "physical",
+  "template_opportunities_locations": [],
+  "title": "Heartbeat",
+  "all_slots({\"sort\":\"start_date\",\"sort_direction\":\"asc\",\"start_date\":\"2024-03-14\"})": {
+    "__typename": "SlotConnection",
+    "nodes": [
+      {
+        "__typename": "Slot",
+        "status": "live",
+        "start_date": "2024-09-09",
+        "opportunity_applications_count": 1
+      }
+    ]
+  },
+  "branch": {
+    "__ref": "Branch:368336"
+  },
+  "host_lc": {
+    "__ref": "Office:430"
+  },
+  "opportunity_duration_type": {
+    "__ref": "OpportunityDurationType:1"
+  },
+  "organisation": {
+    "__typename": "Organisation",
+    "name": "HART HOSPITAL",
+    "profile_photo": "https://cdn-expa.aiesec.org/gis-img/missing_profile_h.svg"
+  },
+  "programme": {
+    "__ref": "Programme:7"
+  },
+  "role_info": {
+    "__typename": "RoleInfoType",
+    "learning_points_list": []
+  },
+  "sdg_info": {
+    "__ref": "Sdg:334052"
+  },
+  "specifics_info": {
+    "__typename": "SpecificInfoType",
+    "salary": null,
+    "salary_currency": {
+      "__ref": "Currency:97"
+    },
+    "salary_periodicity": "per month"
+  }
+}
+,{
+  "__typename": "Opportunity",
+  "applicants_count": 30,
+  "applications_close_date": null,
+  "cover_photo({\"cdn_region\":\"Global\"})": {
+    "url": "https://s3.eu-west-1.amazonaws.com/gis-production-eu/fwVJpUEgvpSYmabe6oC5Kz7g",
+    "filename": "cover-photo.jpg"
+  },
+  "description": "Global Volunteers will be involved in community outreach in the public health field by creating and running outreach activities that aim to raise awareness on prevention of non-communicable diseases, healthy lifestyle habits and mental health in the community.\t",
+  "id": "1285860",
+  "partner_type": null,
+  "is_favourited": true,
+  "duration": null,
+  "earliest_start_date": null,
+  "location": "Jodhpur, India",
+  "project_name": "",
+  "project_description": "The project aims to impact the SDG #3 by raising awareness on prevention of non-communicable diseases and the importance of mental health. \t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t",
+  "remote_opportunity": "false",
+  "experience_type": "physical",
+  "template_opportunities_locations": [],
+  "title": "Heartbeat",
+  "all_slots({\"sort\":\"start_date\",\"sort_direction\":\"asc\",\"start_date\":\"2024-03-14\"})": {
+    "__typename": "SlotConnection",
+    "nodes": [
+      {
+        "__typename": "Slot",
+        "status": "live",
+        "start_date": "2024-04-01",
+        "opportunity_applications_count": 0
+      },
+      {
+        "__typename": "Slot",
+        "status": "live",
+        "start_date": "2024-04-15",
+        "opportunity_applications_count": 0
+      },
+      {
+        "__typename": "Slot",
+        "status": "live",
+        "start_date": "2024-05-01",
+        "opportunity_applications_count": 0
+      },
+      {
+        "__typename": "Slot",
+        "status": "live",
+        "start_date": "2024-05-15",
+        "opportunity_applications_count": 0
+      },
+      {
+        "__typename": "Slot",
+        "status": "live",
+        "start_date": "2024-06-01",
+        "opportunity_applications_count": 0
+      },
+      {
+        "__typename": "Slot",
+        "status": "live",
+        "start_date": "2024-06-15",
+        "opportunity_applications_count": 0
+      },
+      {
+        "__typename": "Slot",
+        "status": "live",
+        "start_date": "2024-07-01",
+        "opportunity_applications_count": 0
+      },
+      {
+        "__typename": "Slot",
+        "status": "live",
+        "start_date": "2024-07-15",
+        "opportunity_applications_count": 0
+      },
+      {
+        "__typename": "Slot",
+        "status": "live",
+        "start_date": "2024-08-01",
+        "opportunity_applications_count": 0
+      },
+      {
+        "__typename": "Slot",
+        "status": "live",
+        "start_date": "2024-08-15",
+        "opportunity_applications_count": 0
+      },
+      {
+        "__typename": "Slot",
+        "status": "live",
+        "start_date": "2024-09-01",
+        "opportunity_applications_count": 0
+      },
+      {
+        "__typename": "Slot",
+        "status": "live",
+        "start_date": "2024-09-15",
+        "opportunity_applications_count": 0
+      },
+      {
+        "__typename": "Slot",
+        "status": "live",
+        "start_date": "2024-10-01",
+        "opportunity_applications_count": 0
+      },
+      {
+        "__typename": "Slot",
+        "status": "live",
+        "start_date": "2024-10-15",
+        "opportunity_applications_count": 0
+      },
+      {
+        "__typename": "Slot",
+        "status": "live",
+        "start_date": "2024-11-01",
+        "opportunity_applications_count": 0
+      },
+      {
+        "__typename": "Slot",
+        "status": "live",
+        "start_date": "2024-11-15",
+        "opportunity_applications_count": 0
+      },
+      {
+        "__typename": "Slot",
+        "status": "live",
+        "start_date": "2024-12-01",
+        "opportunity_applications_count": 0
+      },
+      {
+        "__typename": "Slot",
+        "status": "live",
+        "start_date": "2024-12-15",
+        "opportunity_applications_count": 0
+      },
+      {
+        "__typename": "Slot",
+        "status": "live",
+        "start_date": "2025-01-01",
+        "opportunity_applications_count": 0
+      }
+    ]
+  },
+  "branch": {
+    "__ref": "Branch:374359"
+  },
+  "host_lc": {
+    "__ref": "Office:14"
+  },
+  "opportunity_duration_type": {
+    "__ref": "OpportunityDurationType:1"
+  },
+  "organisation": {
+    "__typename": "Organisation",
+    "name": "Shridev Jasnath Trust",
+    "profile_photo": "https://cdn-expa.aiesec.org/gis-img/missing_profile_s.svg"
+  },
+  "programme": {
+    "__ref": "Programme:7"
+  },
+  "role_info": {
+    "__typename": "RoleInfoType",
+    "learning_points_list": []
+  },
+  "sdg_info": {
+    "__ref": "Sdg:334052"
+  },
+  "specifics_info": {
+    "__typename": "SpecificInfoType",
+    "salary": null,
+    "salary_currency": {
+      "__ref": "Currency:97"
+    },
+    "salary_periodicity": "per month"
+  }
+}
+,{
+  "__typename": "Opportunity",
+  "applicants_count": 34,
+  "applications_close_date": null,
+  "cover_photo({\"cdn_region\":\"Global\"})": {
+    "url": "https://s3.eu-west-1.amazonaws.com/gis-production-eu/snHsTWfsa7p6ZXLt4awA8U26",
+    "filename": "image.jpeg"
+  },
+  "description": "Global Volunteers will be involved in community outreach in the public health field by creating and running outreach activities that aim to raise awareness on prevention of non-communicable diseases, healthy lifestyle habits and mental health in the community.\t",
+  "id": "1286195",
+  "partner_type": null,
+  "is_favourited": true,
+  "duration": null,
+  "earliest_start_date": null,
+  "location": "Suez, Suez Governorate, Egypt",
+  "project_name": "",
+  "project_description": "The project aims to impact the SDG #3 by raising awareness on prevention of non-communicable diseases and the importance of mental health. \t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t",
+  "remote_opportunity": "false",
+  "experience_type": "physical",
+  "template_opportunities_locations": [],
+  "title": "Heartbeat",
+  "all_slots({\"sort\":\"start_date\",\"sort_direction\":\"asc\",\"start_date\":\"2024-03-14\"})": {
+    "__typename": "SlotConnection",
+    "nodes": [
+      {
+        "__typename": "Slot",
+        "status": "live",
+        "start_date": "2024-07-01",
+        "opportunity_applications_count": 5
+      }
+    ]
+  },
+  "branch": {
+    "__ref": "Branch:384862"
+  },
+  "host_lc": {
+    "__ref": "Office:15"
+  },
+  "opportunity_duration_type": {
+    "__ref": "OpportunityDurationType:1"
+  },
+  "organisation": {
+    "__typename": "Organisation",
+    "name": "Let's Communicate Center - مركز تعالى نتخاطب",
+    "profile_photo": "https://s3.eu-west-1.amazonaws.com/gis-production-eu/KwmqMDAdXVdfFJduKxX6dVN5"
+  },
+  "programme": {
+    "__ref": "Programme:7"
+  },
+  "role_info": {
+    "__typename": "RoleInfoType",
+    "learning_points_list": []
+  },
+  "sdg_info": {
+    "__ref": "Sdg:334052"
+  },
+  "specifics_info": {
+    "__typename": "SpecificInfoType",
+    "salary": null,
+    "salary_currency": {
+      "__ref": "Currency:97"
+    },
+    "salary_periodicity": "per month"
+  }
+}
+,{
+  "__typename": "Opportunity",
+  "applicants_count": 40,
+  "applications_close_date": null,
+  "cover_photo({\"cdn_region\":\"Global\"})": {
+    "url": "https://s3.eu-west-1.amazonaws.com/gis-production-eu/V4BRR49iNwgSbmXU5HsePsgQ",
+    "filename": "cover-photo.jpg"
+  },
+  "description": "Global Volunteers will be involved in community outreach in the public health field by creating and running outreach activities that aim to raise awareness on prevention of non-communicable diseases, healthy lifestyle habits and mental health in the community.\t",
+  "id": "1286381",
+  "partner_type": null,
+  "is_favourited": false,
+  "duration": null,
+  "earliest_start_date": null,
+  "location": "Tanta Qism 2, Egypt",
+  "project_name": "",
+  "project_description": "The project aims to impact the SDG #3 by raising awareness on prevention of non-communicable diseases and the importance of mental health. \t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t",
+  "remote_opportunity": "false",
+  "experience_type": "physical",
+  "template_opportunities_locations": [],
+  "title": "Heartbeat",
+  "all_slots({\"sort\":\"start_date\",\"sort_direction\":\"asc\",\"start_date\":\"2024-03-14\"})": {
+    "__typename": "SlotConnection",
+    "nodes": [
+      {
+        "__typename": "Slot",
+        "status": "live",
+        "start_date": "2024-07-22",
+        "opportunity_applications_count": 9
+      }
+    ]
+  },
+  "branch": {
+    "__ref": "Branch:384956"
+  },
+  "host_lc": {
+    "__ref": "Office:1725"
+  },
+  "opportunity_duration_type": {
+    "__ref": "OpportunityDurationType:1"
+  },
+  "organisation": {
+    "__typename": "Organisation",
+    "name": "TRC ",
+    "profile_photo": "https://s3.eu-west-1.amazonaws.com/gis-production-eu/mEMCwdhwxCpvh6WVmJncAyBr"
+  },
+  "programme": {
+    "__ref": "Programme:7"
+  },
+  "role_info": {
+    "__typename": "RoleInfoType",
+    "learning_points_list": []
+  },
+  "sdg_info": {
+    "__ref": "Sdg:334052"
+  },
+  "specifics_info": {
+    "__typename": "SpecificInfoType",
+    "salary": null,
+    "salary_currency": {
+      "__ref": "Currency:97"
+    },
+    "salary_periodicity": "per month"
+  }
+}
+,{
+  "__typename": "Opportunity",
+  "applicants_count": 13,
+  "applications_close_date": null,
+  "cover_photo({\"cdn_region\":\"Global\"})": {
+    "url": "https://s3.eu-west-1.amazonaws.com/gis-production-eu/CeyP9wjFABeUm3syX7CZUKtU",
+    "filename": "cover-photo.jpg"
+  },
+  "description": "Global Volunteers will be involved in community outreach in the public health field by creating and running outreach activities that aim to raise awareness on prevention of non-communicable diseases, healthy lifestyle habits and mental health in the community.\t",
+  "id": "1287060",
+  "partner_type": null,
+  "is_favourited": false,
+  "duration": null,
+  "earliest_start_date": null,
+  "location": "قسم شبين الكوم, Egypt",
+  "project_name": "",
+  "project_description": "The project aims to impact the SDG #3 by raising awareness on prevention of non-communicable diseases and the importance of mental health. \t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t",
+  "remote_opportunity": "false",
+  "experience_type": "physical",
+  "template_opportunities_locations": [],
+  "title": "Heartbeat",
+  "all_slots({\"sort\":\"start_date\",\"sort_direction\":\"asc\",\"start_date\":\"2024-03-14\"})": {
+    "__typename": "SlotConnection",
+    "nodes": [
+      {
+        "__typename": "Slot",
+        "status": "live",
+        "start_date": "2024-06-01",
+        "opportunity_applications_count": 2
+      }
+    ]
+  },
+  "branch": {
+    "__ref": "Branch:385218"
+  },
+  "host_lc": {
+    "__ref": "Office:1727"
+  },
+  "opportunity_duration_type": {
+    "__ref": "OpportunityDurationType:1"
+  },
+  "organisation": {
+    "__typename": "Organisation",
+    "name": "Dr.mohamed Abd elaziz hessein ( Soudi dental care )",
+    "profile_photo": "https://s3.eu-west-1.amazonaws.com/gis-production-eu/A7WQry4uv3YohiJJzRbQ22Fh"
+  },
+  "programme": {
+    "__ref": "Programme:7"
+  },
+  "role_info": {
+    "__typename": "RoleInfoType",
+    "learning_points_list": []
+  },
+  "sdg_info": {
+    "__ref": "Sdg:334052"
+  },
+  "specifics_info": {
+    "__typename": "SpecificInfoType",
+    "salary": null,
+    "salary_currency": {
+      "__ref": "Currency:97"
+    },
+    "salary_periodicity": "per month"
+  }
+}
+]

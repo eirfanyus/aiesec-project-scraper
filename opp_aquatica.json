@@ -1,0 +1,725 @@
+[{
+  "__typename": "Opportunity",
+  "applicants_count": 348,
+  "applications_close_date": null,
+  "cover_photo({\"cdn_region\":\"Global\"})": {
+    "url": "https://s3.eu-west-1.amazonaws.com/gis-production-eu/XdcErePo9AMqzAFtV6jSYfgT",
+    "filename": "aquatica.png"
+  },
+  "description": "Global Volunteers will carry out educational spaces and fieldwork activities to prevent and stop marine and coastal ecosystems pollution. Volunteer will also be responsible for planning and executing an outreach campaigns to engage community members on the protection of marine ecosystems. \t\t\t\t",
+  "id": "1281345",
+  "partner_type": null,
+  "is_favourited": true,
+  "duration": null,
+  "earliest_start_date": null,
+  "location": "Colombo, Sri Lanka",
+  "project_name": "",
+  "project_description": "The project aims to impact SDG #14 by providing communities that live near marine and coastal  areas, with concrete activities to improve the sustainability of the coast and protect marine wildlife that inhabit these ecosystems.\t",
+  "remote_opportunity": "false",
+  "experience_type": "physical",
+  "template_opportunities_locations": [],
+  "title": "Aquatica",
+  "all_slots({\"sort\":\"start_date\",\"sort_direction\":\"asc\",\"start_date\":\"2024-03-14\"})": {
+    "__typename": "SlotConnection",
+    "nodes": [
+      {
+        "__typename": "Slot",
+        "status": "live",
+        "start_date": "2024-05-14",
+        "opportunity_applications_count": 6
+      },
+      {
+        "__typename": "Slot",
+        "status": "live",
+        "start_date": "2024-06-02",
+        "opportunity_applications_count": 4
+      },
+      {
+        "__typename": "Slot",
+        "status": "live",
+        "start_date": "2024-07-01",
+        "opportunity_applications_count": 4
+      },
+      {
+        "__typename": "Slot",
+        "status": "live",
+        "start_date": "2024-07-01",
+        "opportunity_applications_count": 9
+      },
+      {
+        "__typename": "Slot",
+        "status": "live",
+        "start_date": "2024-08-10",
+        "opportunity_applications_count": 10
+      },
+      {
+        "__typename": "Slot",
+        "status": "live",
+        "start_date": "2024-10-01",
+        "opportunity_applications_count": 2
+      }
+    ]
+  },
+  "branch": {
+    "__ref": "Branch:376517"
+  },
+  "host_lc": {
+    "__ref": "Office:221"
+  },
+  "opportunity_duration_type": {
+    "__ref": "OpportunityDurationType:1"
+  },
+  "organisation": {
+    "__typename": "Organisation",
+    "name": "OCEA Sri Lanka",
+    "profile_photo": "https://s3.eu-west-1.amazonaws.com/gis-production-eu/E9yiEBqPsmGrr915wVSX5Cgc"
+  },
+  "programme": {
+    "__ref": "Programme:7"
+  },
+  "role_info": {
+    "__typename": "RoleInfoType",
+    "learning_points_list": []
+  },
+  "sdg_info": {
+    "__ref": "Sdg:334046"
+  },
+  "specifics_info": {
+    "__typename": "SpecificInfoType",
+    "salary": null,
+    "salary_currency": {
+      "__ref": "Currency:97"
+    },
+    "salary_periodicity": "per month"
+  }
+}
+,{
+  "__typename": "Opportunity",
+  "applicants_count": 230,
+  "applications_close_date": null,
+  "cover_photo({\"cdn_region\":\"Global\"})": {
+    "url": "https://s3.eu-west-1.amazonaws.com/gis-production-eu/Qq13E81k7B4HcXKtpgTFag2a",
+    "filename": "AQUATICA..png"
+  },
+  "description": "Global Volunteers will carry out educational spaces and fieldwork activities to prevent and stop marine and coastal ecosystems pollution. Volunteer will also be responsible for planning and executing an outreach campaigns to engage community members on the protection of marine ecosystems. \t\t\t\t",
+  "id": "1285085",
+  "partner_type": null,
+  "is_favourited": true,
+  "duration": null,
+  "earliest_start_date": null,
+  "location": "Colombo, Sri Lanka",
+  "project_name": "",
+  "project_description": "The project aims to impact SDG #14 by providing communities that live near marine and coastal  areas, with concrete activities to improve the sustainability of the coast and protect marine wildlife that inhabit these ecosystems.\t",
+  "remote_opportunity": "false",
+  "experience_type": "physical",
+  "template_opportunities_locations": [],
+  "title": "Aquatica",
+  "all_slots({\"sort\":\"start_date\",\"sort_direction\":\"asc\",\"start_date\":\"2024-03-14\"})": {
+    "__typename": "SlotConnection",
+    "nodes": [
+      {
+        "__typename": "Slot",
+        "status": "live",
+        "start_date": "2024-04-08",
+        "opportunity_applications_count": 4
+      },
+      {
+        "__typename": "Slot",
+        "status": "live",
+        "start_date": "2024-05-20",
+        "opportunity_applications_count": 2
+      },
+      {
+        "__typename": "Slot",
+        "status": "live",
+        "start_date": "2024-07-01",
+        "opportunity_applications_count": 7
+      },
+      {
+        "__typename": "Slot",
+        "status": "live",
+        "start_date": "2024-08-12",
+        "opportunity_applications_count": 2
+      },
+      {
+        "__typename": "Slot",
+        "status": "live",
+        "start_date": "2024-09-23",
+        "opportunity_applications_count": 1
+      },
+      {
+        "__typename": "Slot",
+        "status": "live",
+        "start_date": "2024-11-04",
+        "opportunity_applications_count": 2
+      },
+      {
+        "__typename": "Slot",
+        "status": "live",
+        "start_date": "2024-12-16",
+        "opportunity_applications_count": 3
+      }
+    ]
+  },
+  "branch": {
+    "__ref": "Branch:384423"
+  },
+  "host_lc": {
+    "__ref": "Office:2204"
+  },
+  "opportunity_duration_type": {
+    "__ref": "OpportunityDurationType:1"
+  },
+  "organisation": {
+    "__typename": "Organisation",
+    "name": "Sri Lanka Life Saving (SLLS)",
+    "profile_photo": "https://s3.eu-west-1.amazonaws.com/gis-production-eu/JvEBJu9WmwTChei3LDBe28Sa"
+  },
+  "programme": {
+    "__ref": "Programme:7"
+  },
+  "role_info": {
+    "__typename": "RoleInfoType",
+    "learning_points_list": []
+  },
+  "sdg_info": {
+    "__ref": "Sdg:334046"
+  },
+  "specifics_info": {
+    "__typename": "SpecificInfoType",
+    "salary": null,
+    "salary_currency": {
+      "__ref": "Currency:97"
+    },
+    "salary_periodicity": "per month"
+  }
+}
+,{
+  "__typename": "Opportunity",
+  "applicants_count": 257,
+  "applications_close_date": null,
+  "cover_photo({\"cdn_region\":\"Global\"})": {
+    "url": "https://s3.eu-west-1.amazonaws.com/gis-production-eu/yx1ia8HrbEYUeB9r4YyM8KEk",
+    "filename": "Aquatica.jpg"
+  },
+  "description": "Global Volunteers will carry out educational spaces and fieldwork activities to prevent and stop marine and coastal ecosystems pollution. Volunteer will also be responsible for planning and executing an outreach campaigns to engage community members on the protection of marine ecosystems. \t\t\t\t",
+  "id": "1288330",
+  "partner_type": null,
+  "is_favourited": true,
+  "duration": null,
+  "earliest_start_date": null,
+  "location": "Kelaniya, Sri Lanka",
+  "project_name": "",
+  "project_description": "The project aims to impact SDG #14 by providing communities that live near marine and coastal  areas, with concrete activities to improve the sustainability of the coast and protect marine wildlife that inhabit these ecosystems.\t",
+  "remote_opportunity": "false",
+  "experience_type": "physical",
+  "template_opportunities_locations": [],
+  "title": "Aquatica",
+  "all_slots({\"sort\":\"start_date\",\"sort_direction\":\"asc\",\"start_date\":\"2024-03-14\"})": {
+    "__typename": "SlotConnection",
+    "nodes": [
+      {
+        "__typename": "Slot",
+        "status": "live",
+        "start_date": "2024-05-05",
+        "opportunity_applications_count": 14
+      },
+      {
+        "__typename": "Slot",
+        "status": "live",
+        "start_date": "2024-07-01",
+        "opportunity_applications_count": 29
+      },
+      {
+        "__typename": "Slot",
+        "status": "live",
+        "start_date": "2024-08-24",
+        "opportunity_applications_count": 25
+      },
+      {
+        "__typename": "Slot",
+        "status": "live",
+        "start_date": "2024-10-20",
+        "opportunity_applications_count": 0
+      },
+      {
+        "__typename": "Slot",
+        "status": "live",
+        "start_date": "2025-01-05",
+        "opportunity_applications_count": 0
+      }
+    ]
+  },
+  "branch": {
+    "__ref": "Branch:386581"
+  },
+  "host_lc": {
+    "__ref": "Office:872"
+  },
+  "opportunity_duration_type": {
+    "__ref": "OpportunityDurationType:1"
+  },
+  "organisation": {
+    "__typename": "Organisation",
+    "name": "Marine Turtles Protecting Center - Kosgoda",
+    "profile_photo": "https://s3.eu-west-1.amazonaws.com/gis-production-eu/iJw5WQo3DhpDd2f9xbTkMJTT"
+  },
+  "programme": {
+    "__ref": "Programme:7"
+  },
+  "role_info": {
+    "__typename": "RoleInfoType",
+    "learning_points_list": []
+  },
+  "sdg_info": {
+    "__ref": "Sdg:334046"
+  },
+  "specifics_info": {
+    "__typename": "SpecificInfoType",
+    "salary": null,
+    "salary_currency": {
+      "__ref": "Currency:97"
+    },
+    "salary_periodicity": "per month"
+  }
+}
+,{
+  "__typename": "Opportunity",
+  "applicants_count": 32,
+  "applications_close_date": null,
+  "cover_photo({\"cdn_region\":\"Global\"})": {
+    "url": "https://s3.eu-west-1.amazonaws.com/gis-production-eu/1JgTZbszt3M2NK3A3zCLjjtk",
+    "filename": "cover-photo.jpg"
+  },
+  "description": "Global Volunteers will carry out educational spaces and fieldwork activities to prevent and stop marine and coastal ecosystems pollution. Volunteer will also be responsible for planning and executing an outreach campaigns to engage community members on the protection of marine ecosystems. \t\t\t\t",
+  "id": "1291880",
+  "partner_type": null,
+  "is_favourited": true,
+  "duration": null,
+  "earliest_start_date": null,
+  "location": "Surat, India",
+  "project_name": "",
+  "project_description": "The project aims to impact SDG #14 by providing communities that live near marine and coastal  areas, with concrete activities to improve the sustainability of the coast and protect marine wildlife that inhabit these ecosystems.\t",
+  "remote_opportunity": "false",
+  "experience_type": "physical",
+  "template_opportunities_locations": [],
+  "title": "Aquatica",
+  "all_slots({\"sort\":\"start_date\",\"sort_direction\":\"asc\",\"start_date\":\"2024-03-14\"})": {
+    "__typename": "SlotConnection",
+    "nodes": [
+      {
+        "__typename": "Slot",
+        "status": "live",
+        "start_date": "2024-04-01",
+        "opportunity_applications_count": 2
+      },
+      {
+        "__typename": "Slot",
+        "status": "live",
+        "start_date": "2024-05-01",
+        "opportunity_applications_count": 1
+      },
+      {
+        "__typename": "Slot",
+        "status": "live",
+        "start_date": "2024-06-01",
+        "opportunity_applications_count": 0
+      },
+      {
+        "__typename": "Slot",
+        "status": "live",
+        "start_date": "2024-07-01",
+        "opportunity_applications_count": 1
+      },
+      {
+        "__typename": "Slot",
+        "status": "live",
+        "start_date": "2024-08-01",
+        "opportunity_applications_count": 0
+      },
+      {
+        "__typename": "Slot",
+        "status": "live",
+        "start_date": "2024-09-01",
+        "opportunity_applications_count": 0
+      },
+      {
+        "__typename": "Slot",
+        "status": "live",
+        "start_date": "2024-10-01",
+        "opportunity_applications_count": 0
+      },
+      {
+        "__typename": "Slot",
+        "status": "live",
+        "start_date": "2024-11-01",
+        "opportunity_applications_count": 0
+      },
+      {
+        "__typename": "Slot",
+        "status": "live",
+        "start_date": "2024-12-01",
+        "opportunity_applications_count": 0
+      },
+      {
+        "__typename": "Slot",
+        "status": "live",
+        "start_date": "2025-01-01",
+        "opportunity_applications_count": 0
+      },
+      {
+        "__typename": "Slot",
+        "status": "live",
+        "start_date": "2025-07-01",
+        "opportunity_applications_count": 2
+      }
+    ]
+  },
+  "branch": {
+    "__ref": "Branch:386477"
+  },
+  "host_lc": {
+    "__ref": "Office:229"
+  },
+  "opportunity_duration_type": {
+    "__ref": "OpportunityDurationType:1"
+  },
+  "organisation": {
+    "__typename": "Organisation",
+    "name": "Project Surat",
+    "profile_photo": "https://s3.eu-west-1.amazonaws.com/gis-production-eu/b8iyXgYzedtgbUURVYqDwp3f"
+  },
+  "programme": {
+    "__ref": "Programme:7"
+  },
+  "role_info": {
+    "__typename": "RoleInfoType",
+    "learning_points_list": []
+  },
+  "sdg_info": {
+    "__ref": "Sdg:334046"
+  },
+  "specifics_info": {
+    "__typename": "SpecificInfoType",
+    "salary": null,
+    "salary_currency": {
+      "__ref": "Currency:97"
+    },
+    "salary_periodicity": "per month"
+  }
+}
+,{
+  "__typename": "Opportunity",
+  "applicants_count": 129,
+  "applications_close_date": null,
+  "cover_photo({\"cdn_region\":\"Global\"})": {
+    "url": "https://s3.eu-west-1.amazonaws.com/gis-production-eu/YgwuJJRP2N1Czq56G8E5TB6h",
+    "filename": "1b725e7d-6ce9-4fc1-83e6-718b195adfc4.jpg"
+  },
+  "description": "Global Volunteers will carry out educational spaces and fieldwork activities to prevent and stop marine and coastal ecosystems pollution. Volunteer will also be responsible for planning and executing an outreach campaigns to engage community members on the protection of marine ecosystems. \t\t\t\t",
+  "id": "1293683",
+  "partner_type": null,
+  "is_favourited": true,
+  "duration": null,
+  "earliest_start_date": null,
+  "location": "Galle, Sri Lanka",
+  "project_name": "",
+  "project_description": "The project aims to impact SDG #14 by providing communities that live near marine and coastal  areas, with concrete activities to improve the sustainability of the coast and protect marine wildlife that inhabit these ecosystems.\t",
+  "remote_opportunity": "false",
+  "experience_type": "physical",
+  "template_opportunities_locations": [],
+  "title": "Aquatica",
+  "all_slots({\"sort\":\"start_date\",\"sort_direction\":\"asc\",\"start_date\":\"2024-03-14\"})": {
+    "__typename": "SlotConnection",
+    "nodes": [
+      {
+        "__typename": "Slot",
+        "status": "live",
+        "start_date": "2024-04-08",
+        "opportunity_applications_count": 0
+      },
+      {
+        "__typename": "Slot",
+        "status": "live",
+        "start_date": "2024-04-22",
+        "opportunity_applications_count": 2
+      },
+      {
+        "__typename": "Slot",
+        "status": "live",
+        "start_date": "2024-05-13",
+        "opportunity_applications_count": 0
+      },
+      {
+        "__typename": "Slot",
+        "status": "live",
+        "start_date": "2024-06-10",
+        "opportunity_applications_count": 2
+      },
+      {
+        "__typename": "Slot",
+        "status": "live",
+        "start_date": "2024-07-15",
+        "opportunity_applications_count": 5
+      },
+      {
+        "__typename": "Slot",
+        "status": "live",
+        "start_date": "2024-09-30",
+        "opportunity_applications_count": 1
+      },
+      {
+        "__typename": "Slot",
+        "status": "live",
+        "start_date": "2024-11-18",
+        "opportunity_applications_count": 1
+      },
+      {
+        "__typename": "Slot",
+        "status": "live",
+        "start_date": "2024-12-09",
+        "opportunity_applications_count": 1
+      }
+    ]
+  },
+  "branch": {
+    "__ref": "Branch:388593"
+  },
+  "host_lc": {
+    "__ref": "Office:2175"
+  },
+  "opportunity_duration_type": {
+    "__ref": "OpportunityDurationType:1"
+  },
+  "organisation": {
+    "__typename": "Organisation",
+    "name": "Help O Eco Green Ltd",
+    "profile_photo": "https://s3.eu-west-1.amazonaws.com/gis-production-eu/PEfbuC3hcX2mP4qbnprvcSeC"
+  },
+  "programme": {
+    "__ref": "Programme:7"
+  },
+  "role_info": {
+    "__typename": "RoleInfoType",
+    "learning_points_list": []
+  },
+  "sdg_info": {
+    "__ref": "Sdg:334046"
+  },
+  "specifics_info": {
+    "__typename": "SpecificInfoType",
+    "salary": null,
+    "salary_currency": {
+      "__ref": "Currency:97"
+    },
+    "salary_periodicity": "per month"
+  }
+}
+,{
+  "__typename": "Opportunity",
+  "applicants_count": 105,
+  "applications_close_date": null,
+  "cover_photo({\"cdn_region\":\"Global\"})": {
+    "url": "https://s3.eu-west-1.amazonaws.com/gis-production-eu/gUQXzHjJL6x9XH4psCG6m7CH",
+    "filename": "AQ.jpeg"
+  },
+  "description": "Global Volunteers will carry out educational spaces and fieldwork activities to prevent and stop marine and coastal ecosystems pollution. Volunteer will also be responsible for planning and executing an outreach campaigns to engage community members on the protection of marine ecosystems. \t\t\t\t",
+  "id": "1294445",
+  "partner_type": null,
+  "is_favourited": true,
+  "duration": null,
+  "earliest_start_date": null,
+  "location": "Trincomalee, Sri Lanka",
+  "project_name": "",
+  "project_description": "The project aims to impact SDG #14 by providing communities that live near marine and coastal  areas, with concrete activities to improve the sustainability of the coast and protect marine wildlife that inhabit these ecosystems.\t",
+  "remote_opportunity": "false",
+  "experience_type": "physical",
+  "template_opportunities_locations": [],
+  "title": "Aquatica",
+  "all_slots({\"sort\":\"start_date\",\"sort_direction\":\"asc\",\"start_date\":\"2024-03-14\"})": {
+    "__typename": "SlotConnection",
+    "nodes": [
+      {
+        "__typename": "Slot",
+        "status": "live",
+        "start_date": "2024-04-01",
+        "opportunity_applications_count": 9
+      },
+      {
+        "__typename": "Slot",
+        "status": "live",
+        "start_date": "2024-05-20",
+        "opportunity_applications_count": 15
+      },
+      {
+        "__typename": "Slot",
+        "status": "live",
+        "start_date": "2024-07-08",
+        "opportunity_applications_count": 22
+      }
+    ]
+  },
+  "branch": {
+    "__ref": "Branch:389980"
+  },
+  "host_lc": {
+    "__ref": "Office:1340"
+  },
+  "opportunity_duration_type": {
+    "__ref": "OpportunityDurationType:1"
+  },
+  "organisation": {
+    "__typename": "Organisation",
+    "name": "Biodiversity Education And Research - BEAR",
+    "profile_photo": "https://s3.eu-west-1.amazonaws.com/gis-production-eu/PsFoT8EzH8paeHQQcDf6CKMQ"
+  },
+  "programme": {
+    "__ref": "Programme:7"
+  },
+  "role_info": {
+    "__typename": "RoleInfoType",
+    "learning_points_list": []
+  },
+  "sdg_info": {
+    "__ref": "Sdg:334046"
+  },
+  "specifics_info": {
+    "__typename": "SpecificInfoType",
+    "salary": null,
+    "salary_currency": {
+      "__ref": "Currency:97"
+    },
+    "salary_periodicity": "per month"
+  }
+}
+,{
+  "__typename": "Opportunity",
+  "applicants_count": 0,
+  "applications_close_date": null,
+  "cover_photo({\"cdn_region\":\"Global\"})": {
+    "url": "https://s3.eu-west-1.amazonaws.com/gis-production-eu/ftiGB9VKDQETq6F8Sizbv8rG",
+    "filename": "cover-photo.jpg"
+  },
+  "description": "Global Volunteers will carry out educational spaces and fieldwork activities to prevent and stop marine and coastal ecosystems pollution. Volunteer will also be responsible for planning and executing an outreach campaigns to engage community members on the protection of marine ecosystems. \t\t\t\t",
+  "id": "1304476",
+  "partner_type": null,
+  "is_favourited": true,
+  "duration": null,
+  "earliest_start_date": null,
+  "location": "Kumasi, Ghana",
+  "project_name": "Aquatica",
+  "project_description": "The project aims to impact SDG #14 by providing communities that live near marine and coastal  areas, with concrete activities to improve the sustainability of the coast and protect marine wildlife that inhabit these ecosystems.\t",
+  "remote_opportunity": "false",
+  "experience_type": "physical",
+  "template_opportunities_locations": [],
+  "title": "Aquatica",
+  "all_slots({\"sort\":\"start_date\",\"sort_direction\":\"asc\",\"start_date\":\"2024-03-14\"})": {
+    "__typename": "SlotConnection",
+    "nodes": [
+      {
+        "__typename": "Slot",
+        "status": "live",
+        "start_date": "2024-03-30",
+        "opportunity_applications_count": 0
+      }
+    ]
+  },
+  "branch": {
+    "__ref": "Branch:398826"
+  },
+  "host_lc": {
+    "__ref": "Office:430"
+  },
+  "opportunity_duration_type": {
+    "__ref": "OpportunityDurationType:1"
+  },
+  "organisation": {
+    "__typename": "Organisation",
+    "name": "Faculty of Renewable and Natural Resources ",
+    "profile_photo": "https://s3.eu-west-1.amazonaws.com/gis-production-eu/4ANYbha5JsNSbJSRnTMvSyNw"
+  },
+  "programme": {
+    "__ref": "Programme:7"
+  },
+  "role_info": {
+    "__typename": "RoleInfoType",
+    "learning_points_list": []
+  },
+  "sdg_info": {
+    "__ref": "Sdg:334046"
+  },
+  "specifics_info": {
+    "__typename": "SpecificInfoType",
+    "salary": null,
+    "salary_currency": {
+      "__ref": "Currency:97"
+    },
+    "salary_periodicity": "per month"
+  }
+},
+{
+  "__typename": "Opportunity",
+  "applicants_count": 1,
+  "applications_close_date": null,
+  "cover_photo({\"cdn_region\":\"Global\"})": {
+    "url": "https://s3.eu-west-1.amazonaws.com/gis-production-eu/KsWVKq4wqvYLNsFRojCcDzwB",
+    "filename": "cover-photo.jpg"
+  },
+  "description": "Global Volunteers will carry out educational spaces and fieldwork activities to prevent and stop marine and coastal ecosystems pollution. Volunteer will also be responsible for planning and executing an outreach campaigns to engage community members on the protection of marine ecosystems. \t\t\t\t",
+  "id": "1305457",
+  "partner_type": null,
+  "is_favourited": true,
+  "duration": null,
+  "earliest_start_date": null,
+  "location": "Gabes, Tunisia",
+  "project_name": "",
+  "project_description": "The project aims to impact SDG #14 by providing communities that live near marine and coastal  areas, with concrete activities to improve the sustainability of the coast and protect marine wildlife that inhabit these ecosystems.\t",
+  "remote_opportunity": "false",
+  "experience_type": "physical",
+  "template_opportunities_locations": [],
+  "title": "Aquatica",
+  "all_slots({\"sort\":\"start_date\",\"sort_direction\":\"asc\",\"start_date\":\"2024-03-14\"})": {
+    "__typename": "SlotConnection",
+    "nodes": [
+      {
+        "__typename": "Slot",
+        "status": "live",
+        "start_date": "2024-07-25",
+        "opportunity_applications_count": 1
+      }
+    ]
+  },
+  "branch": {
+    "__ref": "Branch:389123"
+  },
+  "host_lc": {
+    "__ref": "Office:1803"
+  },
+  "opportunity_duration_type": {
+    "__ref": "OpportunityDurationType:1"
+  },
+  "organisation": {
+    "__typename": "Organisation",
+    "name": "Association Sauvegarde des Zones Humides du Sud Tunisien",
+    "profile_photo": "https://s3.eu-west-1.amazonaws.com/gis-production-eu/u31sboo8gaPY4Li5fVxGfGcx"
+  },
+  "programme": {
+    "__ref": "Programme:7"
+  },
+  "role_info": {
+    "__typename": "RoleInfoType",
+    "learning_points_list": []
+  },
+  "sdg_info": {
+    "__ref": "Sdg:334046"
+  },
+  "specifics_info": {
+    "__typename": "SpecificInfoType",
+    "salary": null,
+    "salary_currency": {
+      "__ref": "Currency:97"
+    },
+    "salary_periodicity": "per month"
+  }
+}
+]
